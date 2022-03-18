@@ -1,0 +1,26 @@
+{
+  "name": "igania",
+  "version": "1.0.0",
+  "private": true,
+  "description": "igania",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.8.2",
+    "@emotion/styled": "^11.8.1",
+    "@mdx-js/react": "^1.6.22",
+    "gatsby": "^4.10.0",
+    "gatsby-plugin-theme-ui": "^0.13.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "theme-ui": "^0.13.1"
+  }
+}
